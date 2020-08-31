@@ -7,7 +7,7 @@
 
 🖥️ · [office.daha.me](https://office.daha.me)
 
-🌊️ · [daha.life](https://daha.life)
-
 📪️ · hi@daha.me
+
+🌊️ · [daha.life](https://daha.life)
 
