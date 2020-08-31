@@ -1,4 +1,4 @@
-## Daha | Dev to design.
+## Daha · dev to design
 
 ##### Currently working on projects covering by these topics/technologies:
 
