@@ -4,6 +4,8 @@
 
 ###### Telegram Bot · GLSL · ReactJS · CSS
 
+---
+
 
 💼️ · [office.daha.me](https://office.daha.me)
 
