@@ -1,15 +1,10 @@
 ## Daha, dev to design.
 
-##### Currently working on projects covering by these topics/technologies:
-
-###### Telegram Bot · GLSL · ReactJS · CSS
-
----
-
-
 💼️ · [office.daha.me](https://office.daha.me) (building…)
 
 📪️ · hi@daha.me
 
 🌊️ · [daha.life](https://daha.life) (building…)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DahaWong&show_icons=true&theme=tokyonight)
 
